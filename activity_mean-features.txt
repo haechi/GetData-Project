@@ -1,4 +1,3 @@
-x
 subject
 label
 tBodyAcc-mean-X

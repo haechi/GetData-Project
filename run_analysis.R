@@ -66,7 +66,8 @@ activityMean <- activity %>% group_by(subject,label) %>%
 
 # Write out resulting data set and the features
 write.csv(activityMean, "./activity_mean.csv", row.names = F, quote = F)
-write.table(names(activityMean), "./activity_mean-features.txt", row.names=F, quote = F)
+write.table(names(activityMean), "./activity_mean-features.txt", 
+            col.names=NA, row.names=F, quote = F)
 
 
 
