@@ -18,4 +18,4 @@ This repository contains the submission for the Getting and Cleaning Data Course
 
 ### Codebook
 
-The codebook for the resulting tidy data set in provided in a file named `activity_mean-into.txt`, in the same format and style as the codebook `features_info.txt` from the original data UCI HAR Dataset set.
+The codebook for the resulting tidy data set in provided in a file named `activity_mean-codebook.txt`, in the same format and style as the codebook `features_info.txt` from the original data UCI HAR Dataset set.
